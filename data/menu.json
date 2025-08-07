@@ -1,0 +1,6 @@
+[
+  {"name": "Berry Blast Smoothie", "price": 6.5, "description": "Mixed berries with yogurt"},
+  {"name": "Green Detox Smoothie", "price": 7.0, "description": "Spinach, kale and apple"},
+  {"name": "Classic Overnight Oats", "price": 5.0, "description": "Oats soaked overnight with fruits"},
+  {"name": "Peanut Butter Oats", "price": 5.5, "description": "Creamy oats with peanut butter"}
+]
