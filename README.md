@@ -17,3 +17,14 @@ A simple Streamlit app showing the GDP of different countries in the world.
    ```
    $ streamlit run streamlit_app.py
    ```
+
+### Oat & Smoothie shop demo
+
+This repository also includes a basic Streamlit e-commerce example for an oat and smoothie business.
+
+To run the demo locally:
+
+```
+pip install -r requirements.txt
+streamlit run ecommerce_app.py
+```
